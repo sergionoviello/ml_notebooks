@@ -1,0 +1,5 @@
+.DS_Store
+data/
+submissions/
+tmp/
+.ipynb_checkpoints/
