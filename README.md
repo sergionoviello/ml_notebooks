@@ -1,5 +1,7 @@
 # Kaggle competition
 
+practice machine learning algorithms
+
 ## Titanic
 
 ## San Francisco Crime

@@ -3,3 +3,6 @@ data/
 submissions/
 tmp/
 .ipynb_checkpoints/
+._.DS_Store
+titanic/presentation.ipynb
+ocr
