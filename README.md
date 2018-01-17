@@ -1,9 +1,3 @@
-# Kaggle competition
+# Machine Learning and Deep Learning notebooks
 
-practice machine learning algorithms
-
-## Titanic
-
-## San Francisco Crime
-
-## Sberbank house price
+This repository is created for all the work done by me during various courses and competitions on Kaggle.

@@ -3,6 +3,13 @@ data/
 submissions/
 tmp/
 .ipynb_checkpoints/
+__pycache__
 ._.DS_Store
 titanic/presentation.ipynb
 ocr
+wip
+Dockerfile
+Dockerfile.keras
+banjo.jpg
+stories_sim.doc2vec
+notes.md
